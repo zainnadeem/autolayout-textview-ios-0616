@@ -19,6 +19,6 @@ languages: objc
   2. On a 4 inch phone, also make the padding between the `UIButton` and the `UITextField` to be 30 pts.
 
 ## Screenshots
-![Portrait](Portrait.png)
+![Portrait](http://ironboard-curriculum-content.s3.amazonaws.com/iOS/autolayout-textview/Portrait.png)
 
-![Landscape](Landscape.png)
+![Landscape](http://ironboard-curriculum-content.s3.amazonaws.com/iOS/autolayout-textview/Landscape.png)
