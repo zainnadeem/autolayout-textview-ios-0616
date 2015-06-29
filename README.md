@@ -10,8 +10,8 @@ languages: objc
   1. Check out the screenshots below, your goal is to recreate them.
   2. Two Buttons, The left button is 10 pts from the left, the right is 10 pts
      from the right. Both are 10 pts from the bottom.
-  3. One `UITextView` that is flush with the `topLayoutGuide`, 10 pts from the
-     left and 10 pts from the right, 20 pts from the top of the `UIButton`s.
+  3. One `UITextView` that is 20 pts from the top, 10 pts from the
+     left, 10 pts from the right, and 20 pts from the top of the `UIButton`s.
 
 ## Extra Credit
 
