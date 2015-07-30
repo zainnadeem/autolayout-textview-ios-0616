@@ -1,7 +1,4 @@
----
-tags: autolayout, intro, views
-languages: objc
----
+
 
 # AutoLayout-TextView
 
