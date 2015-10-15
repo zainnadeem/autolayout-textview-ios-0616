@@ -1,9 +1,9 @@
 //
 //  main.m
-//  autolayout-textview
+//  autolayout-TextView
 //
-//  Created by Tom OMalley on 6/29/15.
-//  Copyright (c) 2015 Flatiron School. All rights reserved.
+//  Created by Tom OMalley on 10/13/15.
+//  Copyright © 2015 Flatirion School. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

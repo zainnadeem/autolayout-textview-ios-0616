@@ -1,19 +1,18 @@
 //
-//  autolayout_textviewTests.m
-//  autolayout-textviewTests
+//  autolayout_TextViewTests.m
+//  autolayout-TextViewTests
 //
-//  Created by Tom OMalley on 6/29/15.
-//  Copyright (c) 2015 Flatiron School. All rights reserved.
+//  Created by Tom OMalley on 10/13/15.
+//  Copyright © 2015 Flatirion School. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface autolayout_textviewTests : XCTestCase
+@interface autolayout_TextViewTests : XCTestCase
 
 @end
 
-@implementation autolayout_textviewTests
+@implementation autolayout_TextViewTests
 
 - (void)setUp {
     [super setUp];
@@ -27,7 +26,7 @@
 
 - (void)testExample {
     // This is an example of a functional test case.
-    XCTAssert(YES, @"Pass");
+    // Use XCTAssert and related functions to verify your tests produce the correct results.
 }
 
 - (void)testPerformanceExample {

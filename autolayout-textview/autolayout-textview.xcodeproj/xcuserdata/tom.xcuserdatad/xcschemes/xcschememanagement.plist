@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>autolayout-textview.xcscheme</key>
+		<key>autolayout-TextView.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>E24385161B41897F00FE069F</key>
+		<key>E20E86411BCD5F79002B189D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E243852F1B41897F00FE069F</key>
+		<key>E20E865A1BCD5F79002B189D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E20E86651BCD5F79002B189D</key>
 		<dict>
 			<key>primary</key>
 			<true/>

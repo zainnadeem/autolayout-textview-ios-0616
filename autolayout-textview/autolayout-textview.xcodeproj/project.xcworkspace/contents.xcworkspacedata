@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:autolayout-textview.xcodeproj">
+      location = "self:autolayout-TextView.xcodeproj">
    </FileRef>
 </Workspace>
