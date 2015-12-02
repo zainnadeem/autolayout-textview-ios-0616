@@ -20,3 +20,5 @@ After you've set things up, make sure your layout looks correct in both landscap
 ![Portrait](http://ironboard-curriculum-content.s3.amazonaws.com/iOS/autolayout-textview/Portrait.png)
 
 ![Landscape](http://ironboard-curriculum-content.s3.amazonaws.com/iOS/autolayout-textview/Landscape.png)
+
+<a href='https://learn.co/lessons/autolayout-textview' data-visibility='hidden'>View this lesson on Learn.co</a>
