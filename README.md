@@ -21,4 +21,4 @@ After you've set things up, make sure your layout looks correct in both landscap
 
 ![Landscape](http://ironboard-curriculum-content.s3.amazonaws.com/iOS/autolayout-textview/Landscape.png)
 
-<a href='https://learn.co/lessons/autolayout-textview' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/autolayout-textview' title='AutoLayout-TextView'>AutoLayout-TextView</a> on Learn.co and start learning to code for free.</p>
